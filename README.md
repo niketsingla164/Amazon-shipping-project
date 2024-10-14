@@ -32,7 +32,6 @@ Thus, we created below interactive dashboard as per his requirement. Now, he cou
 You can view Amazon Shipping Analytics Dashboard on my Tableau Public Profile link - https://public.tableau.com/profile/niket-singla164#!/  
 
 
-##  Amazon Shipping Analytics Dashboard
 
 
 
